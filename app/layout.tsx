@@ -37,6 +37,7 @@ export default function RootLayout({
   return (
     <html lang="es" className="bg-background">
       <head>
+        <meta name="google-adsense-account" content="ca-pub-4570389302505701" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4570389302505701"
